@@ -1,6 +1,8 @@
 title: Sixten Björkén
+subtitle: Personal github site
 logo: /assets/img/logo.png
 description: Github portfolio 
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+minimal_mistakes_skin: air
