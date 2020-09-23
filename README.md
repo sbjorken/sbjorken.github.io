@@ -10,7 +10,7 @@ Predict whether an address for a Bitcoin coinbase transaction belongs to a minin
 Analyze historical tweets with natural language processing to score overall sentiment as negative or positive.
 
 
-### [Kaggle Competition: Detroit Blight Ticket Compliance (Python)](https://github.com/sbjorken/blight_ticket_compliance)
+### [Kaggle Competition: Blight Ticket Compliance (Python)](https://github.com/sbjorken/blight_ticket_compliance)
 
 Predict whether a ticket for blight violation in Detroit, Michigan, will be paid in time.
 
